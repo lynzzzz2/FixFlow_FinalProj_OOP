@@ -1,4 +1,4 @@
-﻿namespace FixFlow_FinalProj
+﻿namespace FixFlow
 {
     partial class Form1
     {

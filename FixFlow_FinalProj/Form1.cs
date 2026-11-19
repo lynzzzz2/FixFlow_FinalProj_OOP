@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FixFlow_FinalProj
+namespace FixFlow
 {
     public partial class Form1 : Form
     {
